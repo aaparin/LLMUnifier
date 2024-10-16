@@ -21,7 +21,7 @@ LLM Unifier is a command-line tool written in Go that combines the content of mu
    ```
 3. Initialize the Go module:
    ```
-   go mod init github.com/yourusername/LLMUnifier
+   go mod init github.com/aaparin/LLMUnifier
    ```
 4. Install dependencies:
    ```
