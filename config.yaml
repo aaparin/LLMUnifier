@@ -1,0 +1,6 @@
+root_dir: /Users/antonaparin/PhpstormProjects/rita/
+comment_symbol: "###"
+output_file: result.code
+paths:
+  - app/*.php
+  - index.php
